@@ -9,7 +9,6 @@ Must be place it in **\<head>** section.
 ## Example
 ```html
 <!DOCTYPE html>
-<html lang="en">
 <head>
 <title>GitHub</title>
 <meta http-equiv="refresh" content="0; url=https://github.com/" />
