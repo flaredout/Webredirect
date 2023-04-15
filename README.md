@@ -7,6 +7,7 @@ Must be place it in **\<head>** section.
 <meta http-equiv="refresh" content="0; url=http://example.com/" />
 ```
 ## Example
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
